@@ -49,7 +49,7 @@
 </p>
 
 ### 📫 &nbsp;How to reach me
-<a href="https://www.linkedin.com/in/edsanchezmarzal/"><img src="https://img.shields.io/badge/-Edward%20Marzal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/edsanchezmarzal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Edward%20Marzal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <!---
 EdMarzal97/EdMarzal97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
