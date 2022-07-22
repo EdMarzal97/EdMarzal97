@@ -1,7 +1,9 @@
 ![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
 # Hi there, I'm Edward 👋
 💡 &nbsp; I’m interested in explore and learn new technologies.\
-🌱 &nbsp; I’m everyday learning about the last trend focused on backend.
+🌱&nbsp; I’m everyday learning about the last trend focused on backend.\
+✨&nbsp; I'm interested in colaborate in Backend projects or in anything that has to do with Big data.\
+📫&nbsp; Contact me via Email edsanchezmarzal@gmail.com and I'll answer as quick as I can.
 
 
 
