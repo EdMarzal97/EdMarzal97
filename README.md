@@ -59,5 +59,5 @@ You can click the Preview link to take a look at your changes.
 Dont forget add projects and make a portfolio
 Remember to add contributions
 happy independence day!
-dont forget get a new project
+
 --->
