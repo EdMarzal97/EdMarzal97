@@ -58,6 +58,5 @@ EdMarzal97/EdMarzal97 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 Dont forget add projects and make a portfolio
 Remember to add contributions
-happy independence day!
 
 --->
