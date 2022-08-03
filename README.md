@@ -55,5 +55,5 @@
 
 <!---
 check codewars
-you changued your schedule to european time
+you changued your
 --->
