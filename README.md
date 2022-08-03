@@ -55,5 +55,4 @@
 
 <!---
 check codewars
-you changued your
 --->
