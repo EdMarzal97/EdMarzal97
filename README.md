@@ -11,22 +11,18 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-05122A?style=flat&logo=elasticsearch&logoColor=FFA518)&nbsp; 	
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)&nbsp;
 ![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;\
 ![NextJs](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=Oracle)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;\
 ![Redis](https://img.shields.io/badge/redis-05122A?style=flat&logo=redis)&nbsp; 
-![Maven](https://img.shields.io/badge/apache_maven-05122A?style=flat&logo=apachemaven)&nbsp;
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-05122A?&style=flat&logo=Apollo%20GraphQL)&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman)&nbsp;
