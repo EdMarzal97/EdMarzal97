@@ -12,15 +12,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;\
+![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;
 ![NextJs](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;\
+![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
