@@ -21,11 +21,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;\
 ![GraphQL](https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=graphql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
-![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;\
+![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;
 ![NextJs](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
