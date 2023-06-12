@@ -11,10 +11,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;
+![RubyonRails](https://img.shields.io/badge/-RubyonRails-05122A?style=flat&logo=rubyonrails)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)&nbsp;
@@ -23,7 +25,7 @@
 ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;\
 ![GraphQL](https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=graphql)&nbsp;
-![GraphQL](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;
 ![NextJs](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
