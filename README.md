@@ -43,7 +43,3 @@
 
 ### 📫 &nbsp;How to reach me
 <a href="https://www.linkedin.com/in/edsanchezmarzal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Edward%20Marzal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<!--- add a portoflio --->
-<!--- continue with taskhub --->
-<!---- we are back ---->
