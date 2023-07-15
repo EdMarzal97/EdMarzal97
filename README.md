@@ -15,8 +15,7 @@
 ![Spring](https://img.shields.io/badge/spring-05122A?style=flat&logo=spring&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)&nbsp;
@@ -28,11 +27,10 @@
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;
 ![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;
-![NextJs](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
