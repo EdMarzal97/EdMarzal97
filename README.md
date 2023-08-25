@@ -1,7 +1,7 @@
 ![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
 # Hi there, I'm Edward 👋
 
-I'm a Software developer with more than 4 years of experience qualified in Backend, Frontend development and database administration. Expert in Javascript, Typescript, Nodejs, Angular, React, Java, SpringBoot, Python, Django, NoSQL and SQL databases (MongoDB, PostgreSQL) and Cloud Services (AWS and Firebase). Strong problem solving skills and clean coding. As a Software developer I focus on objectives, teamwork and development using best practices, SOLID principles and desing patterns.
+I'm a Software developer with more than 4 years of experience qualified in Backend, Frontend development and database administration. Expert in Javascript, Typescript, Nodejs, Angular, React, Java, SpringBoot, C#, .NET, Python, Django, Flask, NoSQL and SQL databases (MongoDB, PostgreSQL) and Cloud Services (AWS, Azure and Firebase). Strong problem solving skills and clean coding. As a Software developer I focus on objectives, teamwork and development using best practices, SOLID principles and desing patterns.
 
 💡 &nbsp; I’m interested in explore and learn new technologies.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
@@ -14,8 +14,8 @@ I'm a Software developer with more than 4 years of experience qualified in Backe
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;\
