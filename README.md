@@ -1,7 +1,7 @@
 ![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
 # Hi there, I'm Edward 👋
 
-I'm a Software developer with more than 4 years of experience qualified in Backend, Frontend development and database administration. Expert in Javascript, Typescript, Nodejs, Angular, React, C#, .NET, Python, Django, Flask, NoSQL and SQL databases (MongoDB, PostgreSQL) and Cloud Services (AWS, Azure and Firebase). Strong problem solving skills and clean coding. As a Software developer I focus on objectives, teamwork and development using best practices, SOLID principles and desing patterns.
+I'm a Software developer with more than 4 years of experience qualified in Backend, Frontend development and database administration. Expert in Javascript, Typescript, Nodejs, Nestjs, Nextjs, Angular, React, NoSQL and SQL databases (MongoDB, PostgreSQL) and Cloud Services (AWS and Firebase). Strong problem solving skills and clean coding. As a Software developer I focus on objectives, teamwork and development using best practices, SOLID principles and desing patterns.
 
 💡 &nbsp; I’m interested in explore and learn new technologies.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
