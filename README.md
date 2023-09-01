@@ -15,6 +15,8 @@ I'm a Software developer with more than 4 years of experience qualified in Backe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)&nbsp;\
