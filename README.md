@@ -13,21 +13,17 @@ I'm a Software developer with more than 4 years of experience qualified in Backe
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net)
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)&nbsp;\
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;\
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=graphql)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;\
 ![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman)&nbsp;
