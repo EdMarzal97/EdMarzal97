@@ -6,7 +6,7 @@ I'm a Software developer with more than 4 years of experience qualified in Backe
 💡 &nbsp; I’m interested in explore and learn new technologies.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
 ✨&nbsp; I'm interested in colaborate in Fullstack projects.\
-📫&nbsp; Contact me via email edsanchezmarzal@gmail.com and I'll answer as quick as I can.
+📫&nbsp; Contact me via email edwardsmarzal@gmail.com and I'll answer as quick as I can.
 
 
 
