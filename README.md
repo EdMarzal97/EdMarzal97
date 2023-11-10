@@ -1,7 +1,11 @@
 ![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
 # Hi there, I'm Edward 👋
 
-I'm a Software developer with more than 4 years of experience qualified in Backend, Frontend development and database administration. Expert in Javascript, Typescript, Nodejs, Nestjs, Nextjs, Angular, React, NoSQL and SQL databases (MongoDB, PostgreSQL) and Cloud Services (AWS and Firebase). Strong problem solving skills and clean coding. As a Software developer I focus on objectives, teamwork and development using best practices, SOLID principles and desing patterns.
+I'm a software developer proficient in Go / Golang, Python, Java, and Javascript / Typescript. with more than 4 years of professional experience in the market focused mostly on Back-end development 💻. 
+
+I count on experience working with agile methodologies (SCRUM), Cloud services ( AWS, GCP, Firebase), and developer tools like Figma, Jira, Docker, etc
+
+I'm currently located in South America (Perú) in the GMT-5 but I have experience working with companies and clients in different parts of the world 🌎 and can adapt to any timezone.
 
 💡 &nbsp; I’m interested in explore and learn new technologies.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
