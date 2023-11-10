@@ -15,24 +15,24 @@ I'm currently located in South America (Perú) in the GMT-5 but I have experienc
 
 
 ### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)&nbsp;\
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQl-05122A?style=flat&logo=graphql)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-05122A?style=flat&logo=elasticsearch)&nbsp;\
-![ExpressJs](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
-![NestJs](https://img.shields.io/badge/nestjs-05122A?style=flat&logo=nestjs&logoColor=FF0000)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=Postman)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;\
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)\
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
