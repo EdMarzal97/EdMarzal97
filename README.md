@@ -1,4 +1,4 @@
-![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
+![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/nuevo_banner.jpg)
 
 # Hello there 👋! 
 
