@@ -1,11 +1,14 @@
 ![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
-# Hi there, I'm Edward 👋
 
-I'm a software developer proficient in Go / Golang, Python, Java, and Javascript / Typescript. with more than 4 years of professional experience in the market focused mostly on Back-end development 💻. 
+# Hello there 👋! 
+
+I'm a software engineer proficient in Python, and Golang. with more than 4 years of professional experience in the market specialized in Back-end development 💻. 
 
 I count on experience working with agile methodologies (SCRUM), Cloud services ( AWS, GCP, Firebase), and developer tools like Figma, Jira, Docker, etc
 
-I'm currently located in South America (Perú) in the GMT-5 but I have experience working with companies and clients in different parts of the world 🌎 and can adapt to any timezone.
+🚀 Technologies : Python, Javascript/Typescript, Django, Flask, Go / Golang.
+
+Github: https://github.com/EdMarzal97
 
 💡 &nbsp; I’m interested in explore and learn new technologies.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
