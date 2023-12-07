@@ -33,15 +33,6 @@ Github: https://github.com/EdMarzal97
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/EdMarzal97">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EdMarzal97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EdMarzal97&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 📫 &nbsp;How to reach me
 <a href="https://www.linkedin.com/in/edsanchezmarzal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Edward%20Marzal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
