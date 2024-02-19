@@ -6,8 +6,6 @@ Do you need a developer that is capable to participate in every stage of the wor
 
 From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS) or Azure. I'm a software engineer specialized in C#, JavaScript and Typescript with more than 5 years of professional experience in end to end development 💻. 
 
-I count on experience working with agile methodologies (SCRUM, Kanban), Cloud services ( AWS, Azure ), and developer tools and technologies like Figma, Jira, Docker, Kafka, Graphql, Redux, Jest, Cypress, Playwright etc...
-
 🚀 Technologies : Javascript, C#, Typescript, React, Next.js, .NET Framework, ASP.NET Core.
 
 
