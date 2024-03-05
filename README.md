@@ -6,7 +6,7 @@ Do you need a developer that is capable to participate in every stage of the wor
 
 From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS) or Azure. I'm a software engineer specialized in C#, JavaScript and Typescript with more than 5 years of professional experience in end to end development 💻. 
 
-🚀 Technologies : Javascript, C#, Typescript, React, Next.js, .NET Framework, ASP.NET Core.
+🚀 Technologies : Javascript, Python, Typescript, React, Next.js, Node.js, Nest.js, Django, Flask, FastAPI.
 
 
 💡&nbsp; I’m interested in explore and learn new technologies.\
@@ -19,8 +19,10 @@ From designing the databases and the UI following the best practices for guarant
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
