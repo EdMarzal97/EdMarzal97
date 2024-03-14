@@ -4,7 +4,7 @@
 
 Do you need a developer that is capable to participate in every stage of the workflow? Then I'm your guy!
 
-From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS) or Azure. I'm a software engineer specialized in C#, JavaScript and Typescript with more than 5 years of professional experience in end to end development 💻. 
+From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS) or Azure. I'm a software engineer specialized in Python, JavaScript and Typescript with more than 5 years of professional experience in end to end development 💻. 
 
 🚀 Technologies : Javascript, Python, Typescript, React, Next.js, Node.js, Nest.js, Django, Flask, FastAPI.
 
