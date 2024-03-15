@@ -9,7 +9,7 @@ From designing the databases and the UI following the best practices for guarant
 🚀 Technologies : Javascript, Python, Typescript, React, Next.js, Node.js, Nest.js, Django, Flask, FastAPI.
 
 
-💡&nbsp; I’m interested in explore and learn new technologies.\
+💡&nbsp; I’m interested currently in ML and AI.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
 ✨&nbsp; I'm interested in colaborate in Fullstack projects.\
 📫&nbsp; Contact me via email edwardsmarzal@gmail.com and I'll answer as quick as I can.
