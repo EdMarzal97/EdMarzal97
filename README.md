@@ -8,7 +8,7 @@ From designing the databases and the UI following the best practices for guarant
 
 🚀 My Tech Stack: Java, JavaScript, Typescript, Node.js, Spring Boot, React, Angular, Vue.js, Next.js, Nest.js.
 
-💡&nbsp; I’m interested currently in ML and AI.\
+💡&nbsp; I’m interested currently in Cybersecurity.\
 🌱&nbsp; I’m everyday learning about the last technology trend.\
 ✨&nbsp; I'm interested in colaborate in Fullstack projects.\
 📫&nbsp; Contact me via email edwardsmarzal@gmail.com and I'll answer as quick as I can.
