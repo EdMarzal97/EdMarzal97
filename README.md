@@ -1,5 +1,3 @@
-![Edward Marzal Banner](https://raw.githubusercontent.com/EdMarzal97/EdMarzal97/main/Banner-Edward-Marzal.jpg)
-
 # Hello there 👋! 
 
 Do you need a developer that is capable to participate in every stage of the workflow?
