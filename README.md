@@ -5,8 +5,7 @@ Do you need a developer that is capable to participate in every stage of the wor
 From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS). I'm a software engineer specialized in end to end development 💻.
 
 💡&nbsp; I’m interested in Cybersecurity.\
-🌱&nbsp; I’m everyday learning about the last technology trend.\
-✨&nbsp; I'm interested in colaborate in Fullstack projects.\
+✨&nbsp; Portfolio: comming soon!.\
 📫&nbsp; Contact me via email edwardsmarzal@gmail.com and I'll answer as quick as I can.
 
 ### 🛠 &nbsp;Tech Stack
