@@ -6,7 +6,6 @@ From designing the databases and the UI following the best practices for guarant
 
 💡&nbsp; I’m interested in Cybersecurity.\
 ✨&nbsp; Portfolio: comming soon!.\
-📫&nbsp; Contact me via email edwardsmarzal@gmail.com and I'll answer as quick as I can.
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
