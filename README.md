@@ -4,8 +4,8 @@ Do you need a developer that is capable to participate in every stage of the wor
 
 From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS). I'm a software engineer specialized in end to end development 💻.
 
-💡&nbsp; I’m interested in Cybersecurity.\
-✨&nbsp; Portfolio: comming soon!.\
+💡&nbsp; I’m interested in Cybersecurity
+✨&nbsp; Portfolio: comming soon!
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
