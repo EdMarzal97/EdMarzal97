@@ -10,11 +10,9 @@ From designing the databases and the UI following the best practices for guarant
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- ![C#](https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 ![C++](https://img.shields.io/badge/c++-%230e0668.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-<!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) -->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -29,6 +27,9 @@ From designing the databases and the UI following the best practices for guarant
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+<!-- ![C#](https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+<!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) -->
 ### 📫 &nbsp;How to reach me
 <a href="https://www.linkedin.com/in/edsanchezmarzal/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Edward%20Marzal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
