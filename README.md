@@ -1,8 +1,8 @@
 # Hello there 👋! 
 
-Do you need a developer that is capable to participate in every stage of the workflow?
+I'm a Software Engineer with 4+ years of experience building scalable backend systems using Java, Kotlin, Golang, Spring Boot, and AWS. 🚀
 
-From designing the databases and the UI following the best practices for guarantee the best user experience posible (UX) to deploying and managing the app using Cloud technologies like Amazon web services(AWS). I'm a software engineer specialized in end to end development 💻.
+Experienced in microservices, distributed systems, backend modernization, and cloud-native architectures. Focused on delivering reliable and maintainable solutions with measurable impact 💻.
 
 💡&nbsp; I’m interested in Cybersecurity
 ✨&nbsp; Portfolio: coming soon!
@@ -10,8 +10,9 @@ From designing the databases and the UI following the best practices for guarant
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
