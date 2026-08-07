@@ -1,6 +1,6 @@
 # Hello there 👋! 
 
-I'm a Software Engineer with 4+ years of experience building scalable backend systems using Java, Kotlin, Golang, Spring Boot, and AWS. 🚀
+I'm a Software Engineer with 4+ years of experience building scalable backend systems. 🚀
 
 Experienced in microservices, distributed systems, backend modernization, and cloud-native architectures. Focused on delivering reliable and maintainable solutions with measurable impact 💻.
 
