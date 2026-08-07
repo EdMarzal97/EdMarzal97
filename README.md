@@ -1,7 +1,6 @@
 # Hello there 👋! 
 
-I build cloud-native distributed backend systems that are designed to scale, evolve and support real business needs.
-Over the past 5+ years, I've worked with international teams modernizing enterprise applications, designing microservices and developing reliable backend platforms deployed in the cloud. My work has included improving system performance, contributing to architectural decisions and building software that remains maintainable as products grow.  🚀
+I'm a Full-stack Software Engineer focused on Frontend development (70% Frontend / 30% Backend), specializing in React, Next.js, Node.js, NestJS,  TypeScript, and JavaScript. 🚀
 
 Currently open to remote Software Developer opportunities and relocation across Europe. 🌍
 
@@ -11,12 +10,8 @@ Currently open to remote Software Developer opportunities and relocation across 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
