@@ -2,7 +2,7 @@
 
 Senior Full Stack Software Engineer with 6+ years of experience building and modernizing production systems across the US and LATAM. 🚀
 
-I specialize in TypeScript, Node.js, NestJS, AWS and distributed architectures, with hands-on experience designing microservices, REST/GraphQL APIs, event-driven workflows and cloud-based applications.💡
+I specialize in AWS and distributed architectures, with hands-on experience designing microservices, REST/GraphQL APIs, event-driven workflows and cloud-based applications.💡
 
 Throughout my career, I've worked on legacy modernization, scalable backend platforms, e-commerce and Shopify integrations, CI/CD automation, observability and application performance, collaborating with distributed engineering teams and stakeholders.💻
 
